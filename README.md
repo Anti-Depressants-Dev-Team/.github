@@ -30,6 +30,11 @@ We are a mix of purists, leaders, and chaotic AI-wizards. Here is the roster beh
 * **Profile:** A cyborg in human clothing. Fanta doesn't just use ChatGPT; he runs multiple LLMs simultaneously to hallucinate code into reality. He is the master of the prompt, bridging the gap between human thought and machine output.
 * **Philosophy:** *"Why write code when I can prompt-engineer a god to do it for me?"*
 
+### 💗 **Ryan** (aka [CallMeRyan](https://github.com/CallMeRyanYT))
+* **Role:** Emotional Support
+* **Profile:** The best programmer ever. The mastermind behind everything. Nemesis of Terry Davis.
+* **Philosophy:** *"I exist, thus I exist."*
+
 ---
 
 ## 👥 Our Users (The Patients)
